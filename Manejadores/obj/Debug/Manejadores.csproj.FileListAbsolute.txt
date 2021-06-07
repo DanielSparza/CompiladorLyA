@@ -1,0 +1,11 @@
+S:\Documentos\Archivos guardados de Visual Studio\repos\Compilador\Manejadores\bin\Debug\Manejadores.exe.config
+S:\Documentos\Archivos guardados de Visual Studio\repos\Compilador\Manejadores\bin\Debug\Manejadores.exe
+S:\Documentos\Archivos guardados de Visual Studio\repos\Compilador\Manejadores\bin\Debug\Manejadores.pdb
+S:\Documentos\Archivos guardados de Visual Studio\repos\Compilador\Manejadores\bin\Debug\Entidades.exe
+S:\Documentos\Archivos guardados de Visual Studio\repos\Compilador\Manejadores\bin\Debug\Entidades.pdb
+S:\Documentos\Archivos guardados de Visual Studio\repos\Compilador\Manejadores\bin\Debug\Entidades.exe.config
+S:\Documentos\Archivos guardados de Visual Studio\repos\Compilador\Manejadores\obj\Debug\Manejadores.csprojAssemblyReference.cache
+S:\Documentos\Archivos guardados de Visual Studio\repos\Compilador\Manejadores\obj\Debug\Manejadores.csproj.CoreCompileInputs.cache
+S:\Documentos\Archivos guardados de Visual Studio\repos\Compilador\Manejadores\obj\Debug\Manejadores.csproj.CopyComplete
+S:\Documentos\Archivos guardados de Visual Studio\repos\Compilador\Manejadores\obj\Debug\Manejadores.exe
+S:\Documentos\Archivos guardados de Visual Studio\repos\Compilador\Manejadores\obj\Debug\Manejadores.pdb
